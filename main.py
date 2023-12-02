@@ -1,7 +1,7 @@
 import cv2
 from datetime import datetime
 now = datetime.today()
-from cvzone.FaceDetectionModule import FaceDetector
+from cvzone.FaceDetectionModule import FaceDetector //
 detector = cv2.FaceDetector()
 
 
